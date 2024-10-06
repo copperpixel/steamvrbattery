@@ -1,0 +1,8 @@
+# visual c++
+.vs
+x64
+steamvrbattery
+*.user
+
+# g++
+out
